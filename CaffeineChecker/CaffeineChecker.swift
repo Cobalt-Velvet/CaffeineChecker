@@ -446,7 +446,7 @@ struct CustomBlendView: View {
 }
 
 @main
-struct KandaiApp: App {
+struct CaffeineChecker: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

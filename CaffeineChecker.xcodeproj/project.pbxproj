@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		845054DC2DDC25C600042954 /* Kandai.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Kandai.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		845054DC2DDC25C600042954 /* CaffeineChecker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CaffeineChecker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		845054DE2DDC25C600042954 /* Kandai */ = {
+		845054DE2DDC25C600042954 /* CaffeineChecker */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Kandai;
+			path = CaffeineChecker;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		845054D32DDC25C600042954 = {
 			isa = PBXGroup;
 			children = (
-				845054DE2DDC25C600042954 /* Kandai */,
+				845054DE2DDC25C600042954 /* CaffeineChecker */,
 				845054DD2DDC25C600042954 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		845054DD2DDC25C600042954 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				845054DC2DDC25C600042954 /* Kandai.app */,
+				845054DC2DDC25C600042954 /* CaffeineChecker.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		845054DB2DDC25C600042954 /* Kandai */ = {
+		845054DB2DDC25C600042954 /* CaffeineChecker */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 845054EA2DDC25C700042954 /* Build configuration list for PBXNativeTarget "Kandai" */;
+			buildConfigurationList = 845054EA2DDC25C700042954 /* Build configuration list for PBXNativeTarget "CaffeineChecker" */;
 			buildPhases = (
 				845054D82DDC25C600042954 /* Sources */,
 				845054D92DDC25C600042954 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				845054DE2DDC25C600042954 /* Kandai */,
+				845054DE2DDC25C600042954 /* CaffeineChecker */,
 			);
-			name = Kandai;
+			name = CaffeineChecker;
 			packageProductDependencies = (
 			);
 			productName = Kandai;
-			productReference = 845054DC2DDC25C600042954 /* Kandai.app */;
+			productReference = 845054DC2DDC25C600042954 /* CaffeineChecker.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 845054D72DDC25C600042954 /* Build configuration list for PBXProject "Kandai" */;
+			buildConfigurationList = 845054D72DDC25C600042954 /* Build configuration list for PBXProject "CaffeineChecker" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				845054DB2DDC25C600042954 /* Kandai */,
+				845054DB2DDC25C600042954 /* CaffeineChecker */,
 			);
 		};
 /* End PBXProject section */
@@ -251,7 +251,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Kandai/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"CaffeineChecker/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -279,7 +279,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Kandai/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"CaffeineChecker/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -303,7 +303,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		845054D72DDC25C600042954 /* Build configuration list for PBXProject "Kandai" */ = {
+		845054D72DDC25C600042954 /* Build configuration list for PBXProject "CaffeineChecker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				845054E82DDC25C700042954 /* Debug */,
@@ -312,7 +312,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		845054EA2DDC25C700042954 /* Build configuration list for PBXNativeTarget "Kandai" */ = {
+		845054EA2DDC25C700042954 /* Build configuration list for PBXNativeTarget "CaffeineChecker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				845054EB2DDC25C700042954 /* Debug */,
